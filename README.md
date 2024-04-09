@@ -4,4 +4,3 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IlJvYnk
 
 👀 Currently looking for InfoSec internship opportunities
 
-📚 Research Paper: [Optimizing Blind NoSQL Injection Attacks Using the Binary Search Algorithm Approach](https://jurnal.stiki.ac.id/J-INTECH/article/view/980)
